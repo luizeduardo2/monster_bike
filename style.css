@@ -6,12 +6,12 @@ header{
 
 .logo-site{
     float:left;
-    margin: 0 0 0 200px;
+    margin: 0 0 0 0;
 }
 
 .logo-site img{
     float:left;
-    max-width: 100px;
+    max-width: 200px;
 }
 
 .logo-site h1{
@@ -28,7 +28,7 @@ header{
 
 nav{
     float: right;
-    margin: 0 200px 0 150px;
+    margin: 0 30px 0 150px;
 }
 
 nav li{
